@@ -15,7 +15,7 @@ product page
 
 ### Links
 
-- Live Site URL: [product-page](https://olegbobokhidze.github.io/E-commerce-page/)
+- Live Site URL: [product-page](https://olegbobokhidze.github.io/typemaster-landing-page/)
 
 
 ### Built with
